@@ -1,6 +1,5 @@
 /*
  * Jagmeet Singh Grewal
- * 444648
  * ServerWorkerThread
  * Desc: Thread that accepts worker clients and decides how to process requests
  */
