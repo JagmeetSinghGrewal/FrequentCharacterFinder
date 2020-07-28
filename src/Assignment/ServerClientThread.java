@@ -1,6 +1,5 @@
 /*
  * Jagmeet Singh Grewal
- * 444648
  * ServerClientThread
  * Desc: Thread that handles communications with client and inputs new requests and retrieves processed requests
  */
