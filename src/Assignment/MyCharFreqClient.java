@@ -1,6 +1,5 @@
 /*
  * Jagmeet Singh Grewal
- * 444648
  * MyCharFreqClient
  * Desc: Client program that connects to server
  */
