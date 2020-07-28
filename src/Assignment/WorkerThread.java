@@ -1,6 +1,5 @@
 /*
  * Jagmeet Singh Grewal
- * 444648
  * WorkerThread
  * Desc: This file is the thread that handles the communication with the workers by sending 
  * strings and later aggregating and storing computation result
