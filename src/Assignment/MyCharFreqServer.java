@@ -1,6 +1,5 @@
 /*
  * Jagmeet Singh Grewal
- * 444648
  * MyCharFreqServer
  * Desc: Server that clients and workers connect to. 
  */
