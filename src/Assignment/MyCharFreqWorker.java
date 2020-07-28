@@ -1,6 +1,5 @@
 /*
  * Jagmeet Singh Grewal
- * 444648
  * MyCharFreqWorker
  * Desc: Worker File that computes the average character in a given string
  */
